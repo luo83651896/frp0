@@ -1,2 +1,3 @@
 echo "hello";
-./frps -c ./frps.ini;
+#process.env.PORT
+frps -c ./frps.ini;
