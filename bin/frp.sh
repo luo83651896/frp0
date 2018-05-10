@@ -1,2 +1,2 @@
 echo "hello";
-./frps -c ./frps.ini
+./frps -c ./frps.ini;
